@@ -115,8 +115,8 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Yellow paths show what will be researched when the match starts.":"Żółte ścieżki pokażą ci, co będzie możliwe do stworzenia po wystartowaniu meczu..",
 	"Red path items can only be bought for gold at trader."           :"Czerwone ścieżki pokażą ci itemy, które możesz kupić wyłącznie u handlarza.",
 	"(available)"                                                     :"(dostępne)",
-	"(researching - {TIME}s)"                                         :"(Tworzenie - {TIME} sek.)",
-	"(click to vote)"                                                 :"(Kliknij, aby zagłosować)",
+	"(researching - {TIME}s)"                                         :"(tworzenie - {TIME} sek.)",
+	"(click to vote)"                                                 :"(kliknij, aby zagłosować)",
 
 //Sign.as
 	"The big brown fox jumped over the shaggy chocolate.": "Duży brązowy lis przeskoczył nad kudłatą czekoladą.",
@@ -227,7 +227,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 
 //Sandbox.as
 	"Welcome to King Arthur's Gold":"Witaj w King Arthur's Gold",
-	"This is a sandbox mode in which\n you are free to relax.\n\nPress ESC to see controls.\nHave Fun!":"Teraz jesteś w trybie piaskownicy, gdzie.\nmożesz się zrelaksować budując.\n\nWciśnij [ESC], aby zobaczyć jak się steruje.\nBaw się dobrze!",
+	"This is a sandbox mode in which\n you are free to relax.\n\nPress ESC to see controls.\nHave Fun!":"Teraz jesteś w trybie piaskownicy, gdzie\n możesz się zrelaksować budując.\n\nWciśnij [ESC], aby zobaczyć sterowanie.\nBaw się dobrze!",
 
 //// VOTES ////
 //VoteCore.as
@@ -252,8 +252,8 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Go Fight"                                     :"Idź walczyć",
 	"Go Build"                                     :"Buduj",
 	"Prepare for Battle"                           :"Przygotuj się na walkę",
-	" seconds"                                     :"sekund.",
-	" second"                                      :"sekunda.",
+	" seconds"                                     :" sekund",
+	" second"                                      :" sekunda",
 
 //// RESPAWNING ////
 //CTF_Interface.as
@@ -266,7 +266,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Pick spawn point"     :"Wybierz punkt pojawienia się",
 	"Spawn at {ITEM}"      :"Pojaw się w {ITEM}",
 	"respawn is contested" :"Respawn jest oblegany",
-	"No spawns available!" :"Brak dostępnych baz!",
+	"No spawns available!" :"Brak dostępnych odrodzeń!",
 
 //WAR_Interface.as
 	"DEFEND THE HALL!"                           :"BROŃ BAZY!",
